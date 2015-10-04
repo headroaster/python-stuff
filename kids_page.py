@@ -1,4 +1,3 @@
-'''
 name = raw_input ("What's your name?")
 print "Nice to meet you, ", name
 age = raw_input ("How old are you?")
@@ -20,9 +19,23 @@ instr = raw_input ("What's your favorite instrument, for listening to OR playing
 print "Music is super important to people and", instr, " helps develop your brain.  Good for you!"
 season = raw_input ("What's your favorite season?")
 print season,  "that's good.  I was really just hoping you wouldn't say 'Opera'"
-'''
+
 file = open ("name.html", "w")
-file.write(name age gend grade subj tbwgu place sport season)
+
+file.write("""
+<!DOCTYPE html>
+<main>
+<header>
+<h1>Name</h1>
+</header>
+<body>
+<p>Hi, I'm name.  I'm a age year old gend in grade.  My favorite subject is subj, and I'm going to be a tbwgu.
+	I'm from place, and really like sport.  season is my favorite season.</p>
+</body>
+<footer>
+<h3>headroaster made this</h3>
+</footer>
+</main>
+""")
 file.close
 
-print vars()
