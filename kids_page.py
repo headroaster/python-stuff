@@ -19,9 +19,7 @@ instr = raw_input ("What's your favorite instrument, for listening to OR playing
 print "Music is super important to people and", instr, " helps develop your brain.  Good for you!"
 season = raw_input ("What's your favorite season?")
 print season,  "that's good.  I was really just hoping you wouldn't say 'Opera'"
-
-file = open ("name.html", "w")
-
+file = open("%s.html" % (name), "w")
 file.write("""
 <!DOCTYPE html>
 <main>
@@ -29,8 +27,12 @@ file.write("""
 <h1>Name</h1>
 </header>
 <body>
-<p>Hi, I'm name.  I'm a age year old gend in grade.  My favorite subject is subj, and I'm going to be a tbwgu.
-	I'm from place, and really like sport.  season is my favorite season.</p>
+<p>
+""")
+#file.write("Hi, Im {0}.  Im a {1} year old {2} in grade {3}.  My favorite subject is {4}, and Im going to be a {5}.  Im from {6}, and really like {7}.  Thats why {8} is my favorite.") .format ( name, age, gend, grade, subj, tbwgu, place, sport, season) 
+file.write("Hi, Im %s.  Im a %s year old %s in grade %s.  My favorite subject is %s, and Im going to be a %s.  Im from %s and really like %s.  That's why %s is my favorite." %(name, age, gend, grade, subj, tbwgu, place, sport, season))  
+file.write("""
+</p>
 </body>
 <footer>
 <h3>headroaster made this</h3>
@@ -39,3 +41,9 @@ file.write("""
 """)
 file.close
 
+my_age=42
+my_weight=215
+my_height=70
+
+print "If I add %d, %d, and %d I get %d." % (
+    my_age, my_height, my_weight, my_age + my_height + my_weight)
