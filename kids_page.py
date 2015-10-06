@@ -22,6 +22,9 @@ print season,  "that's good.  I was really just hoping you wouldn't say 'Opera'"
 file = open("%s.html" % (name), "w")
 file.write("""
 <!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <main>
 <header>
 <h1>Name</h1>
