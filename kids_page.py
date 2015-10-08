@@ -13,7 +13,7 @@ tbwgu = raw_input ("What are you going to be when you grow up?")
 print "Oh you're going to learn to code and make a huge stack of money, then retire early and never actually grow up?  Perfect!!"
 gend = raw_input ("Are you a girl or a boy?")
 grade = raw_input ("What grade are you in?")
-subj = raw_input ("What's your favorite color?")
+subj = raw_input ("What's your favorite subject?")
 print "...Oh...You know what they say about- never mind..."
 instr = raw_input ("What's your favorite instrument, for listening to OR playing?")
 print "Music is super important to people and", instr, " helps develop your brain.  Good for you!"
@@ -22,18 +22,24 @@ print season,  "that's good.  I was really just hoping you wouldn't say 'Opera'"
 file = open("%s.html" % (name), "w")
 file.write("""
 <!DOCTYPE html>
-<head>
-<link rel="stylesheet" type="text/css" href="style.css">
+<head>""")
+file.write('<link rel="stylesheet" type="text/css"')
+file.write('href="%s.css"' %(name))
+file.write("""
+>
 </head>
 <main>
 <header>
-<h1>Name</h1>
+<h1>
+""")
+file.write("%s" %(name))
+file.write("""
+</h1>
 </header>
 <body>
 <p>
 """)
-#file.write("Hi, Im {0}.  Im a {1} year old {2} in grade {3}.  My favorite subject is {4}, and Im going to be a {5}.  Im from {6}, and really like {7}.  Thats why {8} is my favorite.") .format ( name, age, gend, grade, subj, tbwgu, place, sport, season) 
-file.write("Hi, Im %s.  Im a %s year old %s in grade %s.  My favorite subject is %s, and Im going to be a %s.  Im from %s and really like %s.  That's why %s is my favorite." %(name, age, gend, grade, subj, tbwgu, place, sport, season))  
+file.write("Hi, my name is  %s.  I am a %s year old %s in grade %s.  My favorite subject is %s, and I want to be a %s.  I am from %s and really like %s, and that's why %s is my favorite." %(name, age, gend, grade, subj, tbwgu, place, sport, season))  
 file.write("""
 </p>
 </body>
@@ -50,3 +56,87 @@ my_height=70
 
 print "If I add %d, %d, and %d I get %d." % (
     my_age, my_height, my_weight, my_age + my_height + my_weight)
+
+file = open("%s.css" % (name), "w")
+file.write("""
+body{
+        background-image: url("http://upload.wikimedia.org/wikipedia/commons/f/f3/Hubble_Ultra_Deep_Field_part_d.jpg");
+        background-color: #008f00;
+        color: Yellow;
+        font-family: Trebuchet MS;
+        }
+h1      {
+        background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUpMb2e7VSqfJuvvFcEk3wt-VX_jXOj1Xivxi5LQZsU1Se5MZWPQ");
+
+        margin:  5px;
+        padding: 20px;
+        outline-width: 5px;
+        outline-style: double;
+        outline-color: Black;
+        text-align: center;
+        text-shadow: 9px 9px 10px Red, -9px -9px 10px Red,11px 11px 10px Orange, -11px -11px 10px Orange, 13px 13px 10px Yellow, -13px -13px 10px Yellow, 15px 15px 10px Green, -15px -15px 10px Green, 17px 17px 10px Blue, -17px -17px 10px Blue, 19px 19px 10px Indigo, -19px -19px 10px Indigo, 21px 21px 10px Violet, -21px -21px 10px Violet;
+        }
+div {
+        color: Green;
+        float: left;
+        clear: left;
+
+        text-align: center;
+        border-radius: 100%;
+
+        font-size: 14;
+        color: Yellow;
+        background-color: Blue;
+        }
+img {
+        margin: 5px;
+        float: right;
+        width: 30%;
+        height: 30%;
+        box-shadow: 7px 7px 10px Black;
+        }
+#two{
+        width: 43%;
+        height: 43%;
+        }
+.primary
+        {
+        border-radius: 0;
+        margin: 5px;
+        background-color: Grey;
+        float:left;
+        width: 22%;
+        height: 15%;
+        }
+.secondary 
+        {
+        margin: 3px;
+        height: 13%;
+        width: 23%;
+        }
+.tertiary
+        {
+        color: Orange;
+        border-radius: 0;
+        width: 100%;
+        height: 17%;
+        background-color: Transparent;
+        }
+#clicks
+        {
+        float: right;
+        clear: right;
+        width: 55%;
+        height: 17%;
+        background-color: Transparent;
+        }
+
+unused
+        {
+
+        -7px -7px 10px Black
+        box-shadow: 7px 7px 10px Black;
+        text-shadow: 7px 7px 10px Black, -7px -7px 10px Black;
+        }
+""")
+file.close
