@@ -27,6 +27,12 @@ div {
 	color: Yellow;
 	background-color: Blue;
 	}
+p {
+	text-align: center;
+	}
+footer {
+	text-align: center;
+	}
 img {
 	margin: 5px;
 	float: right;
