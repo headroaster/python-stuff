@@ -1,5 +1,11 @@
+def clear:
+   print ("/n" * 200)
+
+clear()
 name = raw_input ("What's your name?")
 print "Nice to meet you, ", name
+color = raw_input ("What's your favorite color?")
+print "Ok, I'll remember that in the future."
 age = raw_input ("How old are you?")
 print age, " I remember being that old..."
 place = raw_input ("Where are you from?")
@@ -10,11 +16,12 @@ animal = raw_input ("What's your favorite animal?")
 print "Excellent, and..."
 pet = raw_input ("What's your favorite animal to keep as a pet?")
 tbwgu = raw_input ("What are you going to be when you grow up?")
-print "Oh you're going to learn to code and make a huge stack of money, then retire early and never actually grow up?  Perfect!!"
+print "Follow that dream, you may or may not get to where you thought you were going, but you might, and you will have an interesting journey."
 gend = raw_input ("Are you a girl or a boy?")
+print "...And -"
 grade = raw_input ("What grade are you in?")
 subj = raw_input ("What's your favorite subject?")
-print "...Oh...You know what they say about- never mind..."
+print "Right on, I've always enjoyed learning about ", subj, " myself."
 instr = raw_input ("What's your favorite instrument, for listening to OR playing?")
 print "Music is super important to people and", instr, " helps develop your brain.  Good for you!"
 season = raw_input ("What's your favorite season?")
@@ -32,6 +39,7 @@ file.write("""
 <header>
 <h1>
 """)
+
 file.write("%s" %(name))
 file.write("""
 </h1>
@@ -39,7 +47,10 @@ file.write("""
 <body>
 <p>
 """)
-file.write("Hi, my name is  %s.  I am a %s year old %s in grade %s.  My favorite subject is %s, and I want to be a %s.  I am from %s and really like %s, and that's why %s is my favorite." %(name, age, gend, grade, subj, tbwgu, place, sport, season))  
+file.write("Hi, my name is  %s." %(name))
+file.write("  I am a %s year old %s in grade %s." %(age, gend, grade))
+file.write(" My favorite subject is %s, and I want to be a %s." %(subj, tbwgu))
+file.write("  I am from %s and really like %s, and that's why %s is my favorite." %(place, sport, season))  
 file.write("""
 </p>
 </body>
