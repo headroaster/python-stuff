@@ -1,0 +1,251 @@
+asai stupid
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Ray from Pendum
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- called for master password
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Geoff Shadroui called, couldn't hear caller on line
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  claude hall
+
+	Phone Number --  
+
+	TID --  tq14299
+
+	Notes-- 600101  Burroughs
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 	160829-0942
+
+	Caller Name --  rodney hawkins
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- asked rodney to remove the SD card and restart to see 
+	if it would communicate without what I suspected were corrupted 
+	files held on that card which were resisting transmission.
+
+--------------------------------------------------------------------
+
+safe refuses to send a file and shows uploading FTP report whenever started...manager has been power cycling repeatedly to get safe to produce Login screen.  Asked tech to remove SD card and start safe, went straight to Login screen.  I think there's something corrupted in the files it's trying to send, but there's not another SD card at site... not sure if i can trust tech to transfer files from card to laptop and back, kinda doubt it, ... can you think of any test i can do to prove the information on the card is the issue without destroying the information on the card?
+
+UG-13108
+CC11-2S00-F000-B010
+
+644-0072-202S STORAGE CARD, SD 
+210-0320-104S PCB, CONTROL PANEL
+
+-------------------------------------------------------------------
+
+Ticket Number -- 160825-0420
+
+	Caller Name --  Josh at Corner Store 1130
+
+	Phone Number --  
+
+	TID --  970 663 0410
+
+	Notes-- Called Thurs or Friday to report unhappy validator..Shaun? said he couldn't fix the issue, 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  amf towson lanes
+
+	Phone Number --   
+
+	TID --  error code 205
+
+	Notes--  
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160829-1642
+
+	Caller Name --  Tony Berardi
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- Tony called to confirm comms were  now working, I could see that they were, but didnt' have enough information to provide good answers for him, so x'ferred to Elmhurst for more complete info
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number --  SG 23715752  Allan Weiss
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160830-0169
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 160829-1937
+
+	Caller Name --  termaine sumpter
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- machine isn't communicating, checked journal for any error codes..
+	none were showing on the screen.  he saw a notification of no dial tone.  I asked if he could test the phone line to ensure it was working, Termaine pointed out that he can't see the jack where service is coming from, just a cable coming out of the ceiling and leading to the ATM.  I suggested he attempt to plug that line into a phone..that if it wasn't working to place calls the site would have to provide a better line to use for the ATM to communicate on...he's going to try to find a landline phone to test with.  
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160827-0510
+
+
+	Caller Name --  kenrick
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 	16120404-1	TRANAX MB1700 CE, CONTROL BOARD W/O MODEM, SPECIFY COLOR OR MONO in part notes.
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- UMASS five CU
+
+	Caller Name --  243 king st norhampton mass  01060  Nancy
+
+	Phone Number --  
+
+	TID --  Nancy
+
+	Notes-- 413-256-5592
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160829-0639
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160818-1139
+
+
+	Caller Name --  Daniel
+
+	Phone Number --  UG01122 
+
+	TID -- Tech called from site for PACN code, supplied: 1002 63 6383
+
+	Notes--  
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160826-0901
+
+	Caller Name --  sergio
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160825-0433, 160826-1395, 160829-1135, 160829-2137
+
+	Caller Name --  Sietze
+
+	Phone Number --  
+
+	TID --  Tech called from site for PACN code, supplied: 0586 47 4216
+
+	Notes--  
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Billy CT 757034
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160830-0621
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------

@@ -1,0 +1,254 @@
+**************************************************************************************
+Burroughs Ticket: 170818-1803 
+
+	Tidel Ticket: 806177 
+
+	Safe Serial: UG02544 
+
+	safe Part Number: CC11-2B00-0000-B008
+
+	Site Name: MONTROSE DELI 
+
+	Site Address: 5411 W Montrose Ave 
+	Chicago, IL,  60641-1325 
+	(773) 725-6123
+
+	Reported Issue: [CST_INC#:806177] CompuSafe FaultComment: -CompuSafe Fault-Won't Accept Bills Left Side,-Left side making grinding noise:- contact Maggie/Mgr  //EDI00 // 
+
+	Called Ermina, she wasn't able to provide any information other than that Maggie would be available Monday. Advised we'd go ahead and dispatch based on notes.
+
+	*******TECH*******
+
+	Tidel/Brinks Premium - Must bring below parts to call, pull from truck stock or call Tech Support to order from Choice.
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES Has yellow handle. 1200 bill capacity
+
+	BRINKS PACN 8/19: 1923 92 3538
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-1841 
+
+	Tidel Ticket: 806178 
+
+	Safe Serial: UG09295 
+
+	safe Part Number: CC11-2B00-0000-B001
+
+	Site Name: NOCO EXPRESS NCEX53 
+
+	Site Address: 8925 Main St 
+	Clarence, NY,  14031-1927 
+	(716) 634-9235
+	(716) 633-8726
+
+	Reported Issue: [CST_INC#:806178] CompuSafe FaultComment: -CompuSafe Fault-Won't Accept Bills Left Side,-Everytime brinks Courier does a pick up the left cassette goes down. ONGOING ISSUE for 3wks now. :- contact Morgan/Asst-Mgr  //EDI00 // 
+
+	Called site, spoke with Rita, she confirmed that the safe won't accept notes on the left side, that she walked through troubleshooting yesterday with someone, she remove validators, cleared them, made sure they were seated properly, and even switched their positions, but none of these things had any effect on the symptoms.  
+	Dispatching a tech to do the needful.
+
+	*******TECH*******
+
+	Tidel/Brinks Premium - Must bring below parts to call, pull from truck stock or call Tech Support to order from Choice.
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES Has yellow handle. 1200 bill capacity
+
+	Brinks PACN 8/19: 1140 21 0114
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-1852 
+
+	Tidel Ticket: 806180 
+
+	Safe Serial: UG10569 
+
+	Safe Part Number: CC11-2B00-0000-B001
+
+	Site Name: Shell Oil #SNES147 
+
+	Site Address: 8020 S Broadway 
+	Littleton, CO,  80122-2722 
+	(303) 798-7920
+
+	Reported Issue: [CST_INC#:806180] CompuSafe FaultComment: -CompuSafe Fault-Won't Accept Bills Left Side,-LEFT SIDE DOWN ---NOT TAKING CASH--- PER BRANCH THEY COULD NOT RESOLVE THE ISSUE:  //EDI00 // 
+
+	Called site, spoke with Hijrat. He was not able to access the safe for troubleshooting and advised that the manager wouldn't be present until Monday.  Dispatching tech to do the needful based on the reported problem
+
+	*******TECH*******
+
+	Tidel/Brinks Premium - Must bring below parts to call, pull from truck stock or call Tech Support to order from Choice.
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES Has yellow handle. 1200 bill capacity
+
+	Brinks PACN for 8/19: 3334 51 2190
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-1939 
+
+	Tidel Ticket: 806182 
+
+	Safe Serial: UG15086 
+
+	Safe Part Number: CC81-2B00-0000-B001
+
+	Site Name: Chevron 
+
+	Site Address: 1940 65th St 
+	Sacramento, CA,  95817 
+	(916) 456-0908
+
+	Reported Issue: [CST_INC#:806182] CompuSafe FaultComment: -CompuSafe Fault-Printer Not Working,-Printer not working/Troubleshooting failed. :- contact Gayle/Cashier  //EDI00 // 
+
+	Called site, spoke with Glenda.  She confirmed that ppl have been having trouble with the printer, that automatically requested receipts aren't printing, but that when the site requests those receipts manually, the safe offers to print that information on screen, but still doesn't print.  Providing part number of a printer, dispatching a tech to do the needful
+
+	*******TECH*******
+
+	Tidel/Brinks Premium - Must bring below parts to call, pull from truck stock or call Tech Support to order from Choice.
+
+	644-0132-402S PRINTER, KFI INTEGRATED (BUILT-IN) 
+
+	Brinks PACN for 8/19: 2269 97 9735
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-2002 
+
+	Tidel Ticket: 806183 
+
+	Safe Serial: UG17739 
+
+	Safe Part Number: CC81-2S00-0000-B001
+
+	Site Name: BURGER KING BKCR353 
+
+	Site Address: 7314 Ritchie Hwy 
+	Glen Burnie, MD,  21061 
+	(410) 760-8501
+
+	Reported Issue: [CST_INC#:806183] CompuSafe FaultComment: -CompuSafe Fault-Console Not Working,-console not working/rebooted/failed:- contact LASCISHA/MGR  //EDI00 // 
+
+	Called site and spoke with Nija, she confirmed that the safe is stuck on 'Preparing to upload', that it will occassionally look like it's coming into service, then present that message again.  Dispatching a tech to do the needful, providing part no's for control panel and SD card.
+
+	*******TECH*******
+
+	Tidel/Brinks Premium - Must bring below parts to call, pull from truck stock or call Tech Support to order from Choice.
+
+	644-0072-202S STORAGE CARD, SD
+	210-0320-104R PCB, CONTROL PANEL
+
+	Brinks PACN 8/19: 3336 71 6398
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-2058 
+
+	Tidel Ticket: 806149 
+
+	Safe Serial: UG02081 
+
+	Site Name: GET GO 31091 
+
+	Site Address: 436 Lincoln Hwy 
+	East Mc Keesport, PA,  15035-1426
+	(412) 829-8030
+
+	Reported Issue: CompuSafe Fault-Won't Accept Bills Right Side,-Right side down/ reset failed by messenger/ cleaned acceptors/swapped:- contact Jessy/ lead 
+
+	Called site and spoke with Lamar, he reported that the safe is working properly at this time, that the issue is resolved.
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-2061 
+
+	Tidel Ticket: 806150 
+
+	Safe Serial: UG05626 
+
+	safe Part Number: CC11-2B00-0000-B001
+
+	Site Name: MAURICES JEWELERS MCJF2 
+
+	Site Address: 11401 NW 12th St Unit E 
+	Doral, FL,  33172-6904
+	(786) 220-7412
+
+	Reported Issue: CompuSafe Fault-Won't Accept Bills Left Side,-left side down\ reset failed :- contact Perla\ mgr 
+
+	Called site, spoke with Yaimara?  She was able to remove the validators from the safe, switch their positions, and note that the problem follows the acceptor.  She was able to remove a portion of jammed note from the acceptor, but couldnt' get the roller assembly out of the unit to remove the remainder of the note.
+
+	providing part number of a new acceptor head, dispatching a tech to do the needful.
+
+	*******TECH*******
+
+	Tidel/Brinks Premium - Must bring below parts to call, pull from truck stock or call Tech Support to order from Choice.
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+
+	Brinks PACN 8/19:  3371 49 1658
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-2064 
+
+	Tidel Ticket: 806171 
+
+	Safe Serial: UG11179 
+
+	Safe Part Number: CC11-2S00-0000-B004
+
+	Site Name: JACK IN THE BOX JKNF310 
+
+	Site Address: 20840 Roscoe Blvd 
+	Canoga Park, CA,  91306-2002
+	(818) 998-4295
+
+	Reported Issue: Won't Accept Bills Both Sides,-Both sides are down/Messenger unable to fix/Advised they are broken/ Paging to FLM. 
+
+	Called site, spoke with Carmen.  She was able to swap acceptor head positions, noting that the right acceptor head worked following the swap, the left acceptor head still wouldn't accept notes and didn't detect the presence of a cassette.  Dispatching a tech to do the needful, providing part no's for validator and cassette.
+
+	*******TECH*******
+
+	Tidel/Brinks Premium - Must bring below parts to call, pull from truck stock or call Tech Support to order from Choice.
+
+	644-0106-303R BILL ACCEPTOR HEAD, (MEI SNF), USA MEI ADVANCED SCM
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES Has yellow handle. 1200 bill capacity
+
+	Brinks PACN 8/19: 1203 33 1258
+
+**************************************************************************************
+
+**************************************************************************************
+Burroughs Ticket: 170818-2065 
+
+	Tidel Ticket: 806170 
+
+	Safe Serial: UG15088 
+
+	Safe Part Number: 
+
+	Site Name: Chevron CHV1762 
+
+	Site Address: 5591 Lone Tree Way 
+	Brentwood, CA,  94513-5316 
+	925-240-9928
+
+	Reported Issue: Won't Accept Bills Right Side,-right dispenser down/ reset  the safe -failed/ switched the acceptors and failed/ brinks states they cannot fix
+	:- contact Anir/ mgr 
+
+	Called site, spoke with Janelle and Jose.  They were able to test the safe, both sides working during the call.  Resolved.
+
+	Brinks PACN 8/19: 0940 70 0985
+**************************************************************************************
+

@@ -1,0 +1,610 @@
+-------------------------------------------------------------------
+
+Burroughs Number - 160828-0503
+
+	Tidel Number -  773315
+
+	Safe Serial Number -  UA06525
+
+	Safe Part Number -  A21811200000018
+
+	Site Phone Number - (303) 373-4146
+	
+	Notes-  Acceptors not accepting - both sides Contact name: Maria
+
+	Called site, employee who answered advised that there wasn't a manager present currently, that Maria would be back tomorrow (8/29) at 9am.  Needs another attempt.
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Loomis
+
+	PACN code 8/30-  4257 77 1387
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160828-0496
+
+	Tidel Number -  773314
+
+	Safe Serial Number -  	UD00169
+
+	Safe Part Number -  AJ1M1L200000018
+
+	Site Phone Number -   (336)-601-2511
+
+	Notes-  Customer called in reported that the screen to the safe was beginning to fade and then went dark then solid blue.
+
+	Shipping confirmation number -  Called number in notes, got VM.  Needs another attempt.
+
+	Safe Owner -  Loomis
+
+	PACN code 8/30 -  0197 97 6684
+
+	Addresses match between all systems? -  yes
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Burroughs Number - 160828-0485
+
+	Tidel Number -  773313
+
+	Safe Serial Number -  UH02847
+
+	Safe Part Number -  CC21-2B00-1300-L001
+
+	Site Phone Number -  801-359-9071
+
+	Notes-  Printer Contact name: lilian Thomas
+
+	Called site at number provided, spoke with Aaron.  He confirmed he'd checked to make sure paper was loaded properly, had tried rebooting safe with no change.  Asked him to hold printer feed button while power safe on, this didn't produce any change in symptoms either.  Ordering a Printer PCB and dispatching a tech to install that.
+
+	644-0132-101S PCB, PRINTER (KFI)
+
+	Shipping confirmation number -  54285
+
+	Safe Owner -  Loomis
+
+	PACN code 8/30 -  2281 34 9347
+
+	Addresses match between all systems? -  yes
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Burroughs Number - 160828-0428
+
+	Tidel Number -  773311
+
+	Safe Serial Number -  UG04286
+
+	Safe Part Number -  CC11-2S00-0000-B001
+
+	Site Phone Number -  No phone number listed in notes, googled address, found: (951) 845-5272
+	G&M Oil Inc
+	3230 W Ramsey St 
+	Banning CA ,  92220
+
+	Notes-  Missed pickup for 8/27  contact Raul/MGR
+
+	Called number from search, got busy signal.  
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160828-0355
+
+	Tidel Number -  773310	
+
+	Safe Serial Number -  UA07421
+
+	Safe Part Number -  AE18112R0000856
+
+	Site Phone Number - No phone number listed in notes, googled address, found: (916) 635-2027
+	PICK N PULL
+	3419 SUNRISE BLVD 
+	RANCHO CORDOVA CA ,  95742
+
+	Notes-  -Can't Open Safe Door,-Can't Open Safe Door:- contact Rakena/Supvr
+
+	Called site at number from Google search, Rakena confirmed that the side storage vault isn't opening for the site, that they can select the vault in the menu, but when they do so, the solenoid isn't firing to allow the door to open.  Dispatching tech to site.
+
+	ATTENTION TECH: Parts to be pulled from truck stock or obtained from Choice.
+	205-2851-002S SOLENOID, DOOR
+	210-0130-003S PCB, DISTRIBUTION
+
+	Shipping confirmation number -  N/A
+
+	PACN code 8/28 - 1457 67 4648
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+Burroughs Number - 160828-0322 SHIP TO BROKEN
+
+	Tidel Number -  773309
+
+	Safe Serial Number -  CT00845
+
+	Safe Part Number -  CT11-1S00-0008-B001
+
+	Site Phone Number - No phone number listed in notes, googled address, found: (866) 657-6642
+	Sonic
+	13280 Almeda Rd 
+	Houston TX ,  77045
+
+	Notes-  Robbery - they tried to drill a hole in the side of the safe, please assess the damage to safe  :- contact Darshica/ shift manager 
+
+	No parts necessary, dispatching tech to assess damage to safe.
+
+	Shipping confirmation number -  N/A
+	
+	PACN code 8/28 -  1397 37 9202
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160828-0258
+
+	Tidel Number -  773308
+
+	Safe Serial Number -  UG12845
+
+	Safe Part Number -  CC11-2S00-F000-B010
+
+	Site Phone Number - No phone number listed in notes, googled address, found: (812) 288-5990
+	Taco Bell
+	1487 E 10TH St 
+	Jeffersonville IN ,  47130
+
+	Notes - Door Locked Open,-BOTTOM SAFE LOCKED OPEN :- contact SHAWN/ SHIFT LEAD
+
+	Dispatching tech to check function of lock, replace solenoid if necessary.
+
+	ATTENTION TECH: Parts to be pulled from truck stock or obtained from Choice.
+	205-4086-001S SOLENOID ASSY, DROP VAULT DOOR
+
+	Shipping confirmation number -  N/A
+	
+	PACN code 8/28 -  1675 75 9996
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160828-0257
+
+	Tidel Number -  773307
+
+	Safe Serial Number -  UE01547 
+
+	Safe Part Number -  AB151113100000B
+
+	Site Phone Number - No phone number listed in notes, googled address, found: (860) 684-0499
+	TA 22
+	327 Ruby Rd 
+	Willington CT ,  06279
+
+	Notes-  Will Not Dispense Tubes,-quarter despensor jammed/column 6:- contact brian/mgr
+
+	Called site at number from search, tried several times, never got an actual person on the line.
+
+	dispatching tech to clear tube jam, no parts necessary, no parts ordered.
+
+	Shipping confirmation number -  N/A
+
+	Safe Owner -  Brinks
+
+	PACN code 8/28 -  0208 22 0539
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-1075
+
+	Tidel Number -  773306
+
+	Safe Serial Number -  UG12544
+
+	Safe Part Number -  CC11-2S00-8000-B001
+
+	Site Phone Number - No phone number listed in notes, googled address, found: (210) 927-9389
+	Church's Chicken  
+	1003 SE Military Dr 
+	San Antonio TX ,  78214
+
+	Notes-  Modem / Communication Problem
+
+	No parts necessary, No parts ordered, dispatching tech to resolve Communications issue
+
+	Shipping confirmation number -  N/A
+
+	PACN code 8/28 -  3039 24 9760
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-1042
+
+	Tidel Number -  773305
+
+	Safe Serial Number -  UH02833
+
+	Safe Part Number -  CC21-2B00-1000-B001
+
+	Site Phone Number - No phone number listed in notes, googled address, found: (941) 747-7590
+	Racetrac 475
+	6319 E State Road 64 
+	Bradenton FL ,  34208
+
+	Notes-  Won't Accept Bills Right Side,-Right side down/ reset failed:- contact Josh/Shift Mgr
+
+	Called site, spoke with Jackie, she reported the safe is working properly at this time.  Resolved.
+
+	Shipping confirmation number -  N/A
+
+	Safe Owner -  BRINKS
+
+	PACN code 8/28 -  3971 64 2355
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-0741
+
+	Tidel Number -  773302 
+
+	Safe Serial Number -  UG-11145
+
+	Safe Part Number -  CC11-2S00-0000-B004
+
+	Site Phone Number -  
+	Jack in the Box
+	10701 Venice Blvd 
+	Los Angeles CA ,  90034
+
+	Notes-  Won't Accept Bills Right Side,-RIGHT SIDE DOWN :- contact SEGIO/ MGR
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-0739 SHIP TO BROKEN
+
+	Tidel Number -  773301 
+
+	Safe Serial Number -  	UG-14284
+
+	Safe Part Number -  CC81-2S00-0000-B001
+
+	Site Phone Number -  (256) 430-9565
+	GOLDEN CORRAL
+	921 Wimberly Dr SW 
+	Decatur AL ,  35603
+
+	Notes-  Won't Accept Bills Both Sides,-BOTH SIDES DOWN :- contact DONALD/ MGR
+
+	Shipping confirmation number -  
+
+	Safe Owner -  BRINKS
+
+	PACN code -  
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-0669
+
+	Tidel Number -  	773299
+
+	Safe Serial Number -  UG-12433
+
+	Safe Part Number -  CC11-2B00-0000-B008
+
+	Site Phone Number -  (202) 337-9773
+	SPORTS ZONE
+	3140 M St NW 
+	Washington DC ,  20007
+
+	Notes-  Won't Accept Bills Right Side,-right side jam - $20 :- contact willaim/mgr
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-0576
+
+	Tidel Number -  773296
+
+	Safe Serial Number -  UA-05822
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	Binny's Beverage Depot
+	7330 W NORTH AVENUE 
+	ELMWOOD PARK IL ,  60707
+
+	Notes-  Ticket is duplicate ticket of  Service Call ID: 	160827-0445 emailing tidel to verify this.
+	Won't Accept Bills Both Sides,-both sides down - reboot failed:- contact Vick/MOD
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-0438
+
+	Tidel Number -  773293 
+
+	Safe Serial Number -  UG-04707
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	Dunkin Donuts
+	1 Terminal Dr 
+	Middletown PA ,  17057
+
+	Notes-  Printer Not Working,-printer not working -- reset failed:- contact Deja/Mgr
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160827-0203
+
+	Tidel Number -  773283
+
+	Safe Serial Number -  UG-05750
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	TGI Fridays
+	13350 WEST SUNRISE BLVD 
+	SUNRISE FL ,  33323
+
+	Notes-  NO COMMUNICATION
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160826-1581
+
+	Tidel Number -  773266 
+
+	Safe Serial Number -  UG-13135
+
+	Safe Part Number -  
+
+	Site Phone Number -  (951) 600-7395
+	Taco Bell
+	24660 Madison Ave 
+	Murrieta CA ,  92562
+
+	Notes-  -Printer Not Working,-Printer is not working; Reboot failed
+	 spoke with Brian, having him perform a printer reset. It is feeding paper now but he is slammed with his lunch rush and can't test it now. He would like a call back in 30 minutes to verify that the issue has been corrected.
+
+	Shipping confirmation number -  
+
+	Safe Owner -  BRINKS
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160826-1554 
+
+	Tidel Number -  77533
+
+	Safe Serial Number -  	FB-01086
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	7-Eleven
+	2901 SOUTHWEST 44TH ST 
+	OKLAHOMA OK ,  73119
+
+	Notes-  Won't Accept Bills Right Side,-Left side failed after a pick up. :- contact Mgr on duty
+
+	Shipping confirmation number -  
+
+	Safe Owner -  BRINKS
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160826-1453
+
+	Tidel Number -  773258
+
+	Safe Serial Number -  UG-04379
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	HS LORDSHIPS RESTAURANT
+	199 Seawall Dr 
+	Berkeley CA ,  94710
+
+	Notes-  Contact Phone number: 5108432733. ** Call back on Monday morning & ask for Peggy.
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160826-1175
+
+	Tidel Number -  773243 
+
+	Safe Serial Number -  FB-01071
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	7 ELEVEN
+	2556 CLASSEN BLVD 
+	Norman OK ,  73071
+
+	Notes-  Messenger's Electronic Key Is Bad,-Missed pick up due to key not working; 
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160826-1021
+
+	Tidel Number -  773234
+
+	Safe Serial Number -  UG-13229
+
+	Safe Part Number -  
+
+	Site Phone Number - 
+	TACO BELL  
+	1709 E 2ND St 
+	Edmond OK ,  73034
+
+	Notes-  LEFT SIDE DOWN/CASSETTE MISSING /RESET FAILED :- contact Jane
+	644-0106-300R BILL ACCEPTOR HEAD, (MEI SNF), USA, RECONDITIONED; 
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES, RECONDITIONED
+	Closest choice is Dallas, TX 205 mi. Emailed Tidel for how to proceed, waiting for a reply.
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160826-0683
+
+	Tidel Number -  773206 
+
+	Safe Serial Number -  UG-12701  
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	Taco Bell
+	10800 Lorain Ave 
+	Cleveland OH ,  44111
+
+	Notes-  
+
+	Shipping confirmation number -  
+
+	Safe Owner -  
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-0706
+
+	Tidel Number -  773095
+
+	Safe Serial Number -  UG-09628
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+
+	Notes-  
+
+	Shipping confirmation number -  
+
+	Safe Owner -  
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+
+

@@ -1,0 +1,104 @@
+
+***************************************************************************************************
+170825-0001 EGlobal 
+Chris
+lost
+Comms problem
+Changed port <<08/25/2017 @ 05:44 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170825-0090 EGlobal 
+Chris?
+lost
+comms errors
+Changed port number, machine is communicating now <<08/25/2017 @ 05:45 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170825-0096 EGlobal 
+Chris?
+lost
+Card Reader Error
+Card reader is reading sporadically after new software installation.. Chris is going to get installation media prepared to perform necessary upgrades to support EMV and will install des keys, then call back for binding.. maybe more assistance with card reader if it's still not participating. <<08/25/2017 @ 05:47 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170825-0107 Cord Financial 
+Jelpa
+8033020165
+She's received a part that was ordered by a tech, Ted.  Ted hasn't returned to site for several days and Jelpa wants someone, Ted or whoever, to return to complete the repair.  She doesn't know what the part is that she has or why it was sent.
+Jelpa provided her cell as well: 803-640-4083, she's located at Mo's Convenience Store  1214 Sand Bar Ferry Rd, Beech Island, SC 29842, and she'd like someone to come complete the repair on her machine.  Thanks! <<08/25/2017 @ 05:52 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170825-0005 Cardtronics 
+Paul
+9
+Dispenser
+we danced <<08/25/2017 @ 07:56 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170825-0006 Cardtronics 
+Bob
+8
+Jam
+I laughed <<08/25/2017 @ 08:09 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170825-0007 Cardtronics 
+Martin
+9
+Journal
+nothing <<08/25/2017 @ 08:23 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170825-0008 Cardtronics 
+Sam
+99
+boredom
+nothing <<08/25/2017 @ 11:49 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************

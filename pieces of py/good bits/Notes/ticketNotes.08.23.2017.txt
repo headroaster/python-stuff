@@ -1,0 +1,26 @@
+
+***************************************************************************************************
+170823-0002 Kahuna 
+Zahne Jones
+5088587410
+EFT dispute
+requested $200 on 8/19 using card ending in 2083, received nothing.  Advised to dispute with her bank <<08/23/2017 @ 06:36 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************
+
+***************************************************************************************************
+170823-0205 Kahuna 
+Zahne Jones
+5088587410
+EFT dispute
+Zahne requested $200 on 8/19 using a card ending in 2083, received nothing. Advised to dispute with her bank. <<08/23/2017 @ 06:37 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: EFT DISPUTE
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+***************************************************************************************************

@@ -1,0 +1,393 @@
+-------------------------------------------------------------------
+
+Burroughs Number - 160904-0235
+
+	Tidel Number -  773952
+
+	Safe Serial Number -  UA07427
+
+	Safe Part Number -  A61M11200000018
+
+	Site Phone Number -  909-335-9176
+	26526 BARTON ROAD 
+	REDLANDS CA ,  92373
+
+	Notes-  bill acceptor issue Contact name: MOD
+	Called site, spoke with Carmina, she reported that Friday her courier was out, attempted to get the validator working again, that didnt' work, so they're requesting a new validator and a tech.
+
+	 	644-0106-300R BILL ACCEPTOR HEAD, (MEI SNF), USA SCD/SCM
+ 	 	644-0106-015R CASSETTE, BILL ACCEPTOR, (MEI EXTENDED CAPACITY), USA/MEXICO/AUSTRALIA
+
+	Shipping confirmation number -  54710
+
+	Safe Owner -  Loomis
+
+	PACN code 9/7 - 0954 66 5882
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160904-0231
+
+	Tidel Number - 773951
+
+	Safe Serial Number -  UD-03507
+
+	Safe Part Number -  AB151100000000LH
+
+	Site Phone Number -  718-825-0926
+	5201 Avenue N 
+	Brooklyn NY ,  11234
+
+	Notes-  Printer Failing - Dollar Tree #4737 Contact name: MOD
+	Called number in notes, disconnected.  Double checked number with Google search, no other number listed.  Called again to be sure, same result.
+	Based on notes ordering printer and dispatching a tech to install.
+
+	644-0132-002S PRINTER, KFI, (BUILT-IN) 
+
+	Shipping confirmation number -  54711
+
+	Safe Owner -  Loomis
+
+	PACN code 9/7 -  0349 65 8584  
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160904-0230
+
+	Tidel Number -  773950
+
+	Safe Serial Number -  UA08765
+
+	Safe Part Number -  AE18112R0000018
+
+	Site Phone Number -  313-753-3769 248-721-8566
+	25910 Greenfield Rd 
+	Oak Park MI ,  4823
+
+	Notes-  Called number in notes, wasn't store, was managers personal number.  Called store's number, spoke with MOD, she confirmed that neither side is accepting bills, that one side is reporting full and the other side is reporting jammed.  Loomis makes one visit per week to this site, they don't remember having seen Loomis recently.  Site needs a validator and a tech.  
+
+	644-0117-420R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+
+	Shipping confirmation number -  54712
+
+	Safe Owner - Loomis
+
+	PACN code 9/7 - 0349 65 8584
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160904-0229
+
+	Tidel Number -  773949 
+
+	Safe Serial Number -  UG-08563 
+
+	Safe Part Number -  AE18112R0000018
+
+	Site Phone Number -  251-368-9753
+	5995 Hwy 21 
+	Atmore AL ,  36502
+
+	Notes-  VALIDATOR NOT ACCEPTING BILLS ONGOING ISSUE
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Loomis
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 	160904-0197
+
+	Tidel Number -  773948
+
+	Safe Serial Number -  	UA-08423
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	PICK AND PULL
+	7800 WEST 61ST STREET PLA 
+	SUMMIT IL ,  60501
+
+	Notes-  both sides are not taken money
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160904-0061
+
+	Tidel Number -  773930
+
+	Safe Serial Number -  UG-14626
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	Taco Bell
+	23651 Rockfield Blvd
+	Lake Forest CA 92630
+
+	Notes-  Needs access to side safe 6 AM to 1 AM; other safe 6 am to 11 am
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 	160903-1086
+
+	Tidel Number -  773947 
+
+	Safe Serial Number -  UE-01301
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	RACETRAC
+	10315 Curry Ford Rd 
+	Orlando FL ,  32825
+
+	Notes-  Won't Accept Bills Both Sides,-BOTH SIDES DOWN---NOT TAKING CASH
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160903-0983
+
+	Tidel Number -  773945 
+
+	Safe Serial Number -  UE-00372  
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	PICK N PULL
+	1805 NW BY PASS 
+	SPRINGFIELD MO ,  65803
+
+	Notes-  Console Blank/safe hard down/ reset failed:- contact Cory
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160903-0798
+
+	Tidel Number -  773941
+
+	Safe Serial Number -  UG-12783
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	HARDEES
+	5 Ocean Hwy E 
+	Supply NC ,  28462
+
+	Notes-  -Door Locked Open, door lock open:- contact richardo
+
+	Shipping confirmation number -  
+
+	Safe Owner -  
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 	160903-0406
+
+	Tidel Number -  773921
+
+	Safe Serial Number -  	UE-01185
+
+	Safe Part Number -  
+
+	Site Phone Number -  
+	TCA #006
+	2 Simpson Rd 
+	Columbia NJ ,  07832
+
+	Notes-  example my cashier just came in and told me she put $10 in for quarters and received nothing. but slip says it gave her $10 in quarters. We now have QSR as well as store using our safe, because QSR safe is down completely. Can someone please fix are safe correctly
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - :	160903-0256
+
+	Tidel Number -  	773914 
+
+	Safe Serial Number -  	UG-05752
+
+	Safe Part Number -  
+
+	Site Phone Number - 
+	TGI FRIDAYS
+	7991 Plaza Del Lago Dr 
+	Estero FL ,  33928 
+
+	Notes-  Console Not Working,-Safe has multiple issues: Printer is down, both sides down, and safe keeps rebooting itself then shuts off
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Brinks
+
+	PACN code -  
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Fred with Palo Verde
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 160902-2051
+
+	Caller Name --  160816-1465
+
+	Phone Number --  1-800-689-4829
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160903-0766
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  City Market
+
+	Phone Number --  
+
+	TID --  LK782993
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 160903-1108
+
+	Caller Name --  Tom Commander		
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- check digits from WorldPay - 4fb4f7
+
+	error 5-20801
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Yolanda
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- Cord Financial
+
+	Caller Name --  Julian Hancock has ATM's
+
+	Phone Number --  76548
+
+	TID --  LK270041
+
+	Notes-- 
+	Knights Barber
+	420 e FM 2410
+	Harker Heights 76548
+
+	tech please call with ETA asap..254-289-6638
+
+--------------------------------------------------------------------

@@ -1,0 +1,284 @@
+Chad townsend 005320
+
+-------------------------------------------------------------------
+
+Ticket Number --  160912-1781
+
+	Caller Name --  Patrick
+
+	Phone Number --  
+
+	TID --  UB01131
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160913-0299
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+7020000040
+
+-------------------------------------------------------------------
+
+Ticket Number --  160906-2006
+
+	Caller Name --  	UH00920
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Neil Wachsman
+
+	Phone Number --  Tech called from site for PACN code, supplied:
+
+	TID --  
+
+	Notes-- 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Ticket Number -- 160909-0523
+
+	Caller Name --  Kirk Hoffer
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160912-1054
+
+	Caller Name --  Robert 
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160926-2006
+
+	Caller Name --  todd 'charles cole' 
+
+	Phone Number --  540 205 4116
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160912-0324
+
+	Caller Name --  9311
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 160912-1032
+
+	Caller Name --  Jason
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160912-1209
+
+	Caller Name --  Michael 
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- the drop vault is not unlocking
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  500 board 601763207  Joel at Armor 801280
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Ticket Number --  S+G 23690653
+
+	Caller Name --  Kyle Cadwallader
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Tom Seymour
+
+	Phone Number --  Solvport  tx78314  9373
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160912-0474
+
+	Caller Name --  
+
+	Phone Number --  001040048
+
+	TID --  Kurt kOELLE AND JOHN GIORDANO
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160908-1517
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 190910-0089
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number --  160912-1670
+
+	Caller Name --  Orey Eisenhauer
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160913-1161
+
+	Caller Name --  Lane 
+
+	Phone Number --  
+
+	TID --  
+
+	Notes--  
+
+--------------------------------------------------------------------
+
+Julie
+
+isvlab@burroughs.com
+
+Make   Burroughs
+Model  MQF020094
+Serial 900488422
+
+July 2014  
+
+205-208-9001
+jthompson@cahabapain.com
+
+
+Cahaba Pain and Spine Care
+
+-------------------------------------------------------------------
+
+Ticket Number --  160913-0677
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes--  877 877 0560
+
+--------------------------------------------------------------------
+
+Louie called from site seeing a mostly blue screen with a Tidel logo in the corner.  Advised he go ahead and replace the control panel, he did so...machine started up properly.  We introduced the old SD card to restore settings and blue screen symptom repeated.  Called Tidel and worked with Roy to get the control panel back to defaults, got necessary production file but didn't load it, removed SD card and symptom was relieved.  Provided a phone number at which Louie could contact Loomis for the necessary settings to reprogram safe.
