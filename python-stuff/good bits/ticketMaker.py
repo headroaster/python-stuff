@@ -174,3 +174,4 @@ documentThis()
 documentThat()
 #Closes the browser
 driver.close()
+exit()
