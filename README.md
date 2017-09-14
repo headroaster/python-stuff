@@ -1,4 +1,5 @@
 python-stuff
 ============
 
-incremental bits of work on things being done for school
+what is sounds like.. stuff I'm working on/with on my journey to learning Python
+

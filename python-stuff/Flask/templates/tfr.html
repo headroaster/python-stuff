@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+      <link href="https://fonts.googleapis.com/css?family=Aclonica" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="static/theme.css">
+      <title>Submitted to Notes</title>
+    </head>
+      <body>
+        <h1>Results</h1>
+            <div>
+              <h3>This is what you've recorded in notes<h3>
+            </div>
+            <br>
+            <br>
+            <br>
+              <label class='result' for="customerName">Line of Business</label>
+            <div>
+              <p name='customerName'> {{ customerName }} </p>
+            </div>
+
+            <label class='result' for='TID'>Terminal ID </label>
+            <div>
+              <p name='TID'> {{ terminalID }} </p>
+            </div>
+
+            <label class='result' for='Serial'>Serial Number </label>
+            <div>
+              <p name='Serial'> {{ serial }} </p>
+            </div>
+
+            <label class='result' for='caller'>Caller's Name </label>
+            <div>
+              <p name='caller'> {{ caller }} </p>
+            </div>
+            <label class='result' for='phoneNumber'>Callback Number  </label>
+            <div>
+              <p name='phoneNumber'>{{ phoneNumber }} </p>
+            </div>
+            <label class='result' for='address'>Street address </label>
+            <div>
+              <p name='address'>{{ address }} </p>
+            </div>
+            <label class='result' for='zip'>ZIP code  </label>
+            <div>
+              <p name='ZpCode'>{{ ZpCode }} </p>
+            </div>
+            <label class='result' for='message'>Call Notes </label>
+            <div>
+              <p name='message'>{{ callNotes }}</p>
+            </div>
+
+      </body>
