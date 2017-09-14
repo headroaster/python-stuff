@@ -1,0 +1,338 @@
+
+*********************************************************
+Customer Name: Cardtronics
+TID:  
+Call Driver: 7/11, can't hear what they're saying besides that as they're yelling across the room
+Caller's Name: can't tell
+Phone Number: didn't get
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: transferred to NA
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170905-0086
+Created for: CardtronicsCaller Name: can't tell
+Store Name and Address: 
+PHONE SUPPORT
+  3250 BRIARPARK DR STE 400
+  HOUSTON TX 77042
+Call Back Number: didn't get
+Reason for Call: 7/11, can't hear what they're saying besides that as they're yelling across the room
+Resolution Notes: transferred to NA <<09/05/2017 @ 05:46 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: COMMUNICATIONS
+PROBLEM: Other
+REPAIR ACTION: FOLLOW UP NEEDED
+
+*********************************************************
+
+*********************************************************
+Customer Name: Cardtronics
+TID:  
+Call Driver: reporting a machine outage
+Caller's Name: lost
+Phone Number: lost
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: transferred Kroger to National Accounts for service
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170905-0090
+Created for: CardtronicsCaller Name: lost
+Store Name and Address: 
+PHONE SUPPORT
+  3250 BRIARPARK DR STE 400
+  HOUSTON TX 77042
+Call Back Number: lost
+Reason for Call: reporting a machine outage
+Resolution Notes: transferred Kroger to National Accounts for service <<09/05/2017 @ 05:54 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: COMMUNICATIONS
+PROBLEM: Other
+REPAIR ACTION: FOLLOW UP NEEDED
+
+*********************************************************
+-------------------------------------------------------------------
+
+Ticket Number --  170904-0867
+
+	Caller Name --  Fred Hester
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  10.237.52.6
+255.255.
+10.237.52.1
+
+7700
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170904-0393
+
+	Caller Name --  Carl Strickland
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 644-0106-303S,  644-0106-200S
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Crystal Briscoe
+
+	Phone Number --  2378 highway 172 Needsbury NC 28460
+
+
+	TID --  LK498552
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  Charlie
+
+	Phone Number --  215-788-4011
+
+	TID --  lk560850
+
+	Notes --  Charlie is reporting that the $10's dispense fine, but the $20's don't come out
+
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Victor CS1842
+
+	Phone Number --  
+
+	TID --  UD-05297
+
+	Notes --  am Nathan Starr is on site and authorizing provision of codes.
+
+
+--------------------------------------------------------------------
+
+ASAI  request  for Certegy's number, provided
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Cornetta Chapman
+
+	Phone Number --  calling for capital one
+
+	TID --  1 (877) 383-4802
+
+	Notes-- provided Capital One's correct number
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Victor called back, conferenced wit Diana
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Robert
+
+	Phone Number --  
+
+	TID --  LK690080
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Michelle 2184
+
+	Phone Number --  safe was drowned, now is not working, 
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  Kirk is calling from site having difficulty getting access to the site to perform service, has worked with Josh and Antonio tp get the necessary form sent to the proper ppl.. he's being told the form wasn't filled out correctly to get him access.  Jeff at ATM USA is going to make a phone call to get Kirk in the bldg.. Kirk has been waiting for access for about an hour.. will wait another 5 minutes to see if Jeff can get him in the site before leaving and resetting another appt for a different day.   
+
+	704-363-4369
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Eldon 
+
+	Phone Number --  Garden Shamrock
+
+	TID --  UA-09520
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- ASAI
+
+Sowon
+
+	Caller Name --  $200 each request
+
+	Phone Number --  last 4:  8936
+
+	TID --  lk329586
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170827-0171
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Kevin
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170901-0907
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 09005-00508	CASSETTE SDD 91/96/97/FT/RL/IS1-2K
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+170901-0401
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170823-1561
+
+	Caller Name --  Joseph 
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+	
+	06-0200-01V  Power Supply external
+	EB-10-0140-BAT	Battery Backup Assy 1200/2400
+	EB-15-1250-00 BATTERY, 12V
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170902-0771
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  UG-17251
+
+
+--------------------------------------------------------------------
+
+go into cash control > adjust vault contents > Move vault contents > 
+

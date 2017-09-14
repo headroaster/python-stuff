@@ -1,0 +1,278 @@
+-------------------------------------------------------------------
+Burroughs Number:  160907-0511
+
+Tidel Number :  	774142 
+
+Safe Serial Number :  UG12932
+
+Safe Part Number :  CC11-2S00-0000-B008
+
+Policy/Communications issue.  No parts necessary/No parts ordered.  Dispatching tech to site.
+
+PACN code 9/7 : 0359 28 3777
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Burroughs Number:  160907-0519 
+
+Tidel Number :  774143
+
+Safe Serial Number :  UG02833
+
+Safe Part Number :  CC11-2B00-0000-B008
+
+Policy/Communications issue.  No parts necessary/No parts ordered.  Dispatching tech to site.
+
+PACN code 9/7 :  0139 49 2304
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Burroughs Number:  160907-0520
+
+Tidel Number :  	774144
+
+Safe Serial Number :  UG13563
+
+Safe Part Number :  CC11-2B00-0000-B008
+
+Policy/Communications issue.  No parts necessary/No parts ordered.  Dispatching tech to site.
+
+PACN code 9/7 :  0750 18 8680
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Burroughs Number:  160907-0527 
+
+Tidel Number :  774147
+
+Safe Serial Number :  UG13751
+
+Safe Part Number :  CC11-2B00-0000-B008
+
+Policy/Communications issue.  No parts necessary/No parts ordered.  Dispatching tech to site.
+
+PACN code 9/7 : 3787 89 6531
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160907-0830
+
+	Tidel Number - 774167 
+
+	Safe Serial Number -  UB01451
+
+	Safe Part Number -  A218112H1000018
+
+	Site Phone Number -   770.786.3484 ext 2707
+
+	Notes-  Right side acceptor not workingContact name: Mark Douglas
+
+	Called site, got VM.  Called back after an hour, still got VM.  Ordering based on notes, dispatching tech to isntall parts.
+
+	644-0117-400R BILL ACCEPTOR HEAD, (MEI BNF), USA
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES
+
+	Shipping confirmation number -  54880
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 - 2818 98 1889
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160907-0805
+
+	Tidel Number -  774166
+
+	Safe Serial Number -  UD02493
+
+	Safe Part Number -  AB181L00000000LH
+
+	Site Phone Number -  716-630-6191 716-936-4649
+
+	Notes-  ACCEPTORS Contact name: ALISA
+
+	Called site, spoke with Lisa.  She confirmed that only one side of the safe will accept bills, and that side grinds loudly when working.  Switched position of validators and tested again, symptoms are unchanged.  Ordering 2 validators and a cassette, dispatching tech to install those parts.
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES
+
+	Shipping confirmation number -  54869
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 - 1930 98 9442
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number -  160907-0755
+
+	Tidel Number -  774159
+
+	Safe Serial Number -  UA08136
+
+	Safe Part Number -  A21511200000042
+
+	Site Phone Number -  610.565.6001
+
+	Notes- Validator Contact name: Todd Kanzinger
+
+	Called site at number in notes, spoke with Todd.  Loomis has been helping site to correct validator misbehaviour at site repeatedly, their driver Jim advised site to have validator replaced because of repeated incidents, so ordering fresh validator for site.  
+
+	644-0106-300R BILL ACCEPTOR HEAD, (MEI SNF), USA SCD/SCM 
+
+	Shipping confirmation number -  54872
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 - 0002 73 8655
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number -  160907-0740
+
+	Tidel Number -  774158 
+
+	Safe Serial Number -  UE01582 
+
+	Safe Part Number -  AB151L031M4000LH
+
+	Site Phone Number -  615-952-3208
+
+	Notes-  Printer not printing Contact name: Shelby
+
+	Called site, spoke with Shelby.  She confirmed the printer had been malfunctioning for a week or more, that she's tried multiple reboots, checked and reloaded the paper, moved the rollers to make sure they weren't jammed, and finally reset the printer by holding feed while starting the safe.  None of these steps produced any change in symptoms.  Ordering a fresh printer and dispatching a tech to install it.
+
+	644-0132-002S PRINTER, KFI, (BUILT-IN) - REPLACEMENT FOR UNITS EQUIPPED WITH KFI PRINTER
+
+	Shipping confirmation number -  54878
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 -  1238 35 8135
+
+	Addresses match between all systems? -  no, but sent email to Trackit to have that corrected.
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160907-0725
+
+	Tidel Number -  774157
+
+	Safe Serial Number -  UG04436
+
+	Safe Part Number -  CC11-2S00-0300-L001
+
+	Site Phone Number -  801.394.1992 
+
+	Notes-  Left Acceptor not workingContact name: Michael Nelson
+
+	Called site and spoke with Michael, he confirmed that the one side of the safe will not accept bills, but that the problem stays with the cassette when he moves the validators from side to side.  Ordering a cassette for site and dispatching a tech to install.
+
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES
+
+	Shipping confirmation number -  54886
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 -  2012 19 4350
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160907-0716
+
+	Tidel Number -  774156
+
+	Safe Serial Number -  UA02887
+
+	Safe Part Number -  A21511200000018
+
+	Site Phone Number -  731-819-1326 (731) 587-6717
+
+	Notes-  Contact name: MOD / Annikka
+
+	Called number in notes, someone answered but couldn't hear.  Called back, got VM.  Googled address and called number from search, got busy signal.  Ordering based on notes and dispatching tech to do the needful.
+
+	644-0106-300R BILL ACCEPTOR HEAD, (MEI SNF), USA SCD/SCM
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES
+
+	Shipping confirmation number -  54888
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 - 0180 24 8431
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160907-0705
+
+	Tidel Number -  774155
+
+	Safe Serial Number -  UH02823
+
+	Safe Part Number -  CC21-2B00-1300-L001
+
+	Site Phone Number -  435-283-6057
+
+	Notes-   Both validators failed 
+
+	Called site at number in notes, spoke with Bakery manager, she wasn't able to do troubleshooting but confirmed that neither validator is working on this safe.  Ordering 2 fresh validators and 2 fresh cassettes and dispatching tech to install those parts.
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-015R CASSETTE, BILL ACCEPTOR, (MEI EXTENDED CAPACITY), USA/MEXICO
+
+	Shipping confirmation number -  54892
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 -  0008 94 1567
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number -  160907-0535
+
+	Tidel Number -  774148
+
+	Safe Serial Number -  UA06269
+
+	Safe Part Number -  A21811200000018
+
+	Site Phone Number -  408-259-1386
+
+	Notes-  Bill acceptor down
+
+	Due to deadline ordering based on notes, 1 ea of validator and cassette.  Dispatching tech to install those parts.
+
+ 	644-0117-400R BILL ACCEPTOR HEAD, (MEI BNF), USA
+ 	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES 
+
+	Shipping confirmation number -  54895
+
+	Safe Owner -  Loomis
+
+	PACN code 9/8 -  1500 23 1022
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------

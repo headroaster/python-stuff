@@ -1,0 +1,30 @@
+
+*********************************************************
+Customer Name: ATM USA
+TID:  
+Call Driver: EFT
+Caller's Name: did'nt give
+Phone Number: didn't provide
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: Advised to call bank, he disconnected
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170901-0001
+Created for: ATM USACaller Name: did'nt give
+Store Name and Address: 
+PHONE SUPPORT
+  2200 Gateway Centre Blvd, Suite 220
+  Morrisville NC 27560
+Call Back Number: didn'tprov
+Reason for Call: EFT
+Resolution Notes: Advised to call bank, he disconnected <<09/01/2017 @ 07:37 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************

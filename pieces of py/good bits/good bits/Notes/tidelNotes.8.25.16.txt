@@ -1,0 +1,394 @@
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1243
+
+	Tidel Number -  773133
+
+	Safe Serial Number -  	UA04653
+
+	Safe Part Number -  A21511231000018
+
+	Site Phone Number -  520-884-4338
+
+	Notes-   L VALIDATORContact name: ADRIEN
+
+	called store, spoke with Adrien, they confirmed that the validator works, but makes loud grinding noises and jams frequently.  Ordering 1 each of:
+
+	644-0106-300R BILL ACCEPTOR HEAD, (MEI SNF), USA SCD/SCM 
+	633-0020-004R DISPLAY WITH BACKLIGHT BULB *
+
+	and dispatching a tech to install necessary parts.  
+	Please install validator whether or not current validator appears to be working, cassette if needed.
+
+	Shipping confirmation number -  54190
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 -  1684 00 4364
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-0557
+
+	Tidel Number -  773085
+
+	Safe Serial Number -  UD03759
+
+	Safe Part Number -  AD1H1L00000000LH
+
+	Site Phone Number -  206-243-9988
+
+	Notes-  L VALIDATOR-McDonald's #411 Contact name: JACKIE
+
+	Called site, spoke with Jackie.  She reported that the left acceptor isn't participating at all, that when she moves it to the right channel the symptom follows the validator.  Ordering a fresh validator for site and dispatching a tech to install it.
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+
+	Shipping confirmation number -  54191
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 -  4016 39 7653
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-0584
+
+	Tidel Number -  773088
+
+	Safe Serial Number -  UG00858
+
+	Safe Part Number -  CC21-2S00-0300-L002
+
+	Site Phone Number -  850-385-7037
+
+	Notes-  screen issue Contact name: Rocky
+
+	Called site, spoke with Rocky, Resolved.
+
+	Shipping confirmation number -  
+
+	Safe Owner -  Loomis
+
+	PACN code  8/26 --  2483 89 8075
+
+	Addresses match between all systems? -  
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-0828
+
+	Tidel Number -  773101
+
+	Safe Serial Number -  UG08443
+
+	Safe Part Number -  CC11-2B00-0300-L002
+
+	Site Phone Number -  501-318-0330
+
+	Notes-  BILL ACCEPTOR//FAILEDContact name: MICHELLE
+
+	Called site, spoke with Michelle.  She didn't have time for troubleshooting when I called, so ordering a validator and cassette and dispatching a technician to install the necessary parts.
+	1 ea of:
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES 
+
+	Shipping confirmation number -  54192
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 --  1143 58 2733
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-0542
+
+	Tidel Number -  773083
+
+	Safe Serial Number -  	UA05265
+
+	Safe Part Number -  A61M11231000018
+
+	Site Phone Number -  770-869-1944
+
+	Notes-  Screen Frozen Contact name: MOD
+	Called site, spoke with Theresa.  She confirmed that the safe is not responding to touch.  Ordering;
+
+	644-0080-001R TOUCHSCREEN
+	633-0020-004R DISPLAY WITH BACKLIGHT BULB 
+	210-0228-723R PCB, CONTROL PANEL
+
+	Shipping confirmation number -  54193
+
+	Safe Owner -  Loomis
+
+	PACN code  8/26 --  2536 78 9548
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-0816	
+
+	Tidel Number -  773099
+
+	Safe Serial Number -  UD03317
+
+	Safe Part Number -  AB151L00000000LH
+
+	Site Phone Number -   337-989-0083
+
+	Notes-  Screen is really darkContact name: Sherry
+
+	attempted to call site, got VM advising the number couldn't accept the call.  Ordering based on notes:
+
+	633-0020-004R DISPLAY WITH BACKLIGHT BULB
+
+	Shipping confirmation number -  54194
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 - -  2786 87 7403
+
+	Addresses match between all systems? -  YES
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1244
+
+	Tidel Number -  773134
+
+	Safe Serial Number -  UD00308
+
+	Safe Part Number -  AB151L200000018
+
+	Site Phone Number -   281.326.2078
+
+	Notes-  Screen Failing Contact name: Ryan Mitchell x204
+
+	Called site twice, wasn't able to get an actual person on the phone.  Ordering based on notes 1 ea of:
+
+	633-0020-004R DISPLAY WITH BACKLIGHT BULB 
+	644-0080-002R TOUCHSCREEN
+	210-0228-722R PCB, CONTROL PANEL
+
+	Shipping confirmation number -  54196
+
+	Safe Owner -  Loomis
+
+	PACN code  8/26 --  3602 61 4454
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-0624
+
+	Tidel Number -  773092
+
+	Safe Serial Number -  UG07273
+
+	Safe Part Number -  CC11-2B00-0300-L002
+
+	Site Phone Number -  (504)-582-3115
+
+	Notes-  Right bill Accpetor
+
+	called site, spoke with Michael.  He reported that the site has consistent intermittent issues with one of their validators.  Sending 1 ea of:
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES 
+
+	dispatching tech to install those parts.  Site requests that tech call with ETA when available.
+
+	Shipping confirmation number -  54197
+
+	Safe Owner -  Loomis
+
+	PACN code  8/26 --  1442 72 7223
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1242
+
+	Tidel Number -  773132	
+
+	Safe Serial Number -  UA02516
+
+	Safe Part Number -  A21511200000018
+
+	Site Phone Number -  850-257-4471 
+
+	Notes-   screen Contact name: Angel
+
+	Called site at number in notes, got VM.
+
+	Ordering based on notes, 1 ea of:
+
+	633-0020-007R DISPLAY/TOUCHSCREEN ASSEMBLY WITH BACKLIGHT BULB
+	control panel 
+	210-0240-105R PCB, CONTROL PANEL
+
+	Shipping confirmation number -  54198
+
+	Safe Owner -  Loomis
+
+	PACN code  8/26 --  0074 07 8584
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1309 
+
+	Tidel Number -  773146
+
+	Safe Serial Number -  UA08540
+
+	Safe Part Number -  A21511200000042
+
+	Site Phone Number -  812-431-6257  Jeff
+
+	Notes-  Acceptors state jam or full
+
+	Called site, spoke with Jeff.  He reported that they've had consistent errors with the safe and are not getting the problem fixed.  ordering 2 each of:
+
+	644-0106-300R BILL ACCEPTOR HEAD, (MEI SNF), USA SCD/SCM
+	644-0106-300R BILL ACCEPTOR HEAD, (MEI SNF), USA SCD/SCM
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES
+
+	dispatching tech to install parts.  Tech - please install all parts sent whether or not they appear to be necessary.  
+
+	Shipping confirmation number -  54215
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 -  4012 02 6298
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1308
+
+	Tidel Number -  773145 
+
+	Safe Serial Number -  UE01113
+
+	Safe Part Number -  AD1H1103100000LH
+
+	Site Phone Number -  208-733-1912
+
+	Notes-  Bill acc# 1 not responding to billsContact name: Deb
+
+	Called site and spoke with Deb, she reported that she'd attempted reseating the validator which got it to take a single note, then went out of service again.  I asked her to switch validator positions...she did so, problem followed the validator.  Ordering a validator and dispatching a tech to install it.
+
+	 	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+
+	Shipping confirmation number -  54217
+
+	Safe Owner -  Loomis 
+
+	PACN code 8/26 -  1840 33 5222
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1285
+
+	Tidel Number -  773144
+
+	Safe Serial Number -  UE00781
+
+	Safe Part Number -  AB181L0H900000LH
+
+	Site Phone Number -  719-392-8249
+
+	Notes-  Right side acceptor, broken wire Contact name: MOD
+
+	Called site, MOD reported that at this time they haven't got any problem with the validators, but need Loomis to come perform a pickup
+
+	Shipping confirmation number -  54218
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 -  2110 36 5962
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1273
+
+	Tidel Number -  	773141
+
+	Safe Serial Number -  UD00622
+
+	Safe Part Number -  AB1511200000042
+
+	Site Phone Number -  770-591-4575
+
+	Notes-   Right bill acceptor is making grinding noiseContact name: Angie
+
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES 
+	644-0106-303R BILL ACCEPTOR HEAD, (MEI SNF), USA MEI ADVANCED SCM
+
+	Shipping confirmation number -  54219
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 -  2377 28 4171
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Burroughs Number - 160825-1272
+
+	Tidel Number -  773140 
+
+	Safe Serial Number -  UD00619
+
+	Safe Part Number -  AB181L200000018
+
+	Site Phone Number -   405-859-4352
+
+	Notes-  Both bill accepters are full or jam Contact name: Teresa
+
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0117-434R BILL ACCEPTOR HEAD, (MEI BNF), USA MEI ADVANCED
+	644-0106-200R CASSETTE, BILL ACCEPTOR, (MEI), ALL COUNTRIES
+
+	Shipping confirmation number -  54220
+
+	Safe Owner -  Loomis
+
+	PACN code 8/26 -  1425 32 5147
+
+	Addresses match between all systems? -  yes
+
+-------------------------------------------------------------------

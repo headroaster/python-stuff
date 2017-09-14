@@ -1,0 +1,338 @@
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Eric Eisman 
+
+	Phone Number --  Best Buy 584
+
+	TID --  
+
+	Notes-- 430 Home Dr, Pittsburgh, PA 15275
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 170905-0992
+
+	Caller Name --  Elijah
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170831-0551
+
+	Caller Name --  Steven
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Darrell from diamond shamrock
+	called monday about the screen being blank  4079
+	UA-08867
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170830-0333
+
+	Caller Name --  John
+
+	Phone Number --  813-376-3322
+
+	TID --  
+
+	Notes -- Chauncey
+a tech ordered a part, then tried to get a courier, then needs to switch back to the order on the ticket, do you know how to get the ticket into the proper part review status?
+there's a hurricane making Choice no longer available and he needs to switch back to ordering through teh call
+he'd placed the order on the call, then attempted to cancel to order via courier, now needs to switch back and would like to be reasonably sure he won't order 2 by mistake
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Dan
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 2526e200d6fd
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 170831-
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170901-0287
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  John
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170906-0376
+
+	Caller Name --  Jaime
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- ATM USA 
+
+	Caller Name --  dead air
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- ASAI
+
+	Caller Name --  Shane Ferguson
+
+	Phone Number --  754-368-2865
+
+	TID --  Spearmint Rhino LV  cash advance $100
+	$115 impact to account.
+
+	Notes--  196047  9/2/17
+
+	Shane performed a cash advance on 196047 on 9/w requesting $100, agreeing to fee of $15, cage declined to disburse.. advised to begin Reg E dispute with bank and that we'd be prepared to assist in that investigation.
+
+
+--------------------------------------------------------------------
+*********************************************************
+Customer Name: ASAI
+TID:  
+Call Driver: EFT dispute
+Caller's Name: Shane Ferguson
+Phone Number: 754-368-2865
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: Shane performed a cash advance on 196047 on 9/w requesting $100, agreeing to fee of $15, cage declined to disburse.. advised to begin Reg E dispute with bank and that we'd be prepared to assist in that investigation.
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170906-0766
+Created for: ASAICaller Name: Shane Ferguson
+Store Name and Address: 
+PHONE SUPPORT
+  101 North Brand Blvd. Suite 1230,
+  Glendale CA 91203
+Call Back Number: 7543682865
+Reason for Call: EFT dispute
+Resolution Notes: Shane performed a cash advance on 196047 on 9/w requesting $100, agreeing to fee of $15, cage declined to disburse.. advised to begin Reg E dispute with bank and that we'd be prepared to assist in that investigation. <<09/06/2017 @ 10:08 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: COMMUNICATIONS
+PROBLEM: Other
+REPAIR ACTION: FOLLOW UP NEEDED
+
+*********************************************************
+-------------------------------------------------------------------
+
+Ticket Number -- 170821-1152
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes -- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170905-1179
+
+	Caller Name --  Zach
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 	BP01040-A	8 GB CS5K Computer	
+This is an Atom PC (6 Port Atom) 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Cleveland
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 767082 Sprint
+
+	A10000157EC9B2
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170821-1152
+
+	Caller Name --   
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170905-0729
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- William
+
+	Caller Name --  Abe Portales
+
+	Phone Number -- cst 1 18760
+
+	TID -- error 382
+
+	Notes -- 245 469
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  John 
+
+	Phone Number --  1750058042  1750109666
+
+	TID --  
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170905-0411
+
+	Caller Name --  Vince
+
+	Phone Number --  Churches Chicken 97
+
+	TID --  210-557-6396
+
+	Notes --  170515-0236
+
+--------------------------------------------------------------------
+

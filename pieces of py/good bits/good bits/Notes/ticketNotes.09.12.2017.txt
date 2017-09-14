@@ -1,0 +1,590 @@
+
+*********************************************************
+Customer Name: Cardtronics
+TID:  
+Call Driver: ATM Problem
+Caller's Name: lost
+Phone Number: lost
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: transferred 7/11 to NA
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170912-0090
+Created for: CardtronicsCaller Name: lost
+Store Name and Address: 
+PHONE SUPPORT
+  3250 BRIARPARK DR STE 400
+  HOUSTON TX 77042
+Call Back Number: lost
+Reason for Call: ATM Problem
+Resolution Notes: transferred 7/11 to NA <<09/12/2017 @ 05:58 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: WRONG DEPARTMENT
+PROBLEM: Transferred to Correct Dept
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+
+*********************************************************
+Customer Name: ATM USA
+TID:  
+Call Driver: comms failure d1500
+Caller's Name: lost
+Phone Number: lost
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: Customer is going to gather laptop, replacement patch cable, test network, possibly call back for further assistance.
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170912-0158
+Created for: ATM USACaller Name: lost
+Store Name and Address: 
+PHONE SUPPORT
+  2200 Gateway Centre Blvd, Suite 220
+  Morrisville NC 27560
+Call Back Number: lost
+Reason for Call: comms failure d1500
+Resolution Notes: Customer is going to gather laptop, replacement patch cable, test network, possibly call back for further assistance. <<09/12/2017 @ 06:36 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: COMMUNICATIONS
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+
+*********************************************************
+Customer Name: Cord Financial
+TID:  
+Call Driver: d1500 comms error
+Caller's Name: lost
+Phone Number: 207-717-3604
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: Customer reported they could see other devices online on their network, that ATM was on network.. Advised that DHCP lease timeout would explain symptoms, requested they reboot router/ATM, then test to see if that helped.
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170912-0161
+Created for: Cord FinancialCaller Name: lost
+Store Name and Address: 
+PHONE SUPPORT
+  PO Box 1287
+  Temple TX 76504
+Call Back Number: 2077173604
+Reason for Call: d1500 comms error
+Resolution Notes: Customer reported they could see other devices online on their network, that ATM was on network.. Advised that DHCP lease timeout would explain symptoms, requested they reboot router/ATM, then test to see if that helped. <<09/12/2017 @ 06:38 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: COMMUNICATIONS
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+
+*********************************************************
+Customer Name: Cardtronics
+TID:  
+Call Driver: couldn't hear
+Caller's Name: couldn't hear
+Phone Number: couldn't hear
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: they'll call back as i couldn't hear them.
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170912-0183
+Created for: CardtronicsCaller Name: couldn't hear
+Store Name and Address: 
+PHONE SUPPORT
+  3250 BRIARPARK DR STE 400
+  HOUSTON TX 77042
+Call Back Number: couldn'the
+Reason for Call: couldn't hear
+Resolution Notes: they'll call back as i couldn't hear them. <<09/12/2017 @ 06:49 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: COMMUNICATIONS
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  Steven
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+asai
+
+wild horse casino on 9th, performed 2 cash advances, attempted a 3rd, was over limit.. 
+
+name on card: Emilio Gonzales
+
+last 4: 6159
+
+Requested: 900, 928.95  transaction errored but debit went through.
+
+Advising to perform a Reg E dispute.
+
+352-484-9127
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+*********************************************************
+Customer Name: ASAI
+TID:  
+Call Driver: EFT report
+Caller's Name: Emilio Gonzales
+Phone Number: 3524849127
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: Mr Gonzales performed a cash advance at Wild Horse casino using a card ending in 6159, requesting 900, total after fees was 928.95.  This was third transaction of the evening and wasn't disbursed, but he sees a debit on his account and needs that reversed.  Thanks!
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170912-0391
+Created for: ASAICaller Name: Emilio Gonzales
+Store Name and Address: 
+PHONE SUPPORT
+  101 North Brand Blvd. Suite 1230,
+  Glendale CA 91203
+Call Back Number: 3524849127
+Reason for Call: EFT report
+Resolution Notes: Mr Gonzales performed a cash advance at Wild Horse casino using a card ending in 6159, requesting 900, total after fees was 928.95.  This was third transaction of the evening and wasn't disbursed, but he sees a debit on his account and needs that reversed.  Thanks! <<09/12/2017 @ 07:51 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: EFT DISPUTE
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+-------------------------------------------------------------------
+
+Ticket Number -- 170911-1045
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170911-1248
+
+	Caller Name --  Keith
+
+	Phone Number --  
+
+	TID --  787689930845
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+Tom Kulikowski
+
+douncode
+
+
+-------------------------------------------------------------------
+
+Ticket Number -- Tidel
+
+	Caller Name --  Corner Store  512-774-7586
+
+	Phone Number --  Kaleena
+
+	TID --  UD-03181
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number -- Estrella  Trujillo
+
+	TID --  
+
+	Notes-- 78228
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number --  ASAI
+
+	Caller Name --  no english
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  disconnected 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Danny   Charlene Settlement
+
+	Phone Number --  IR000009
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+*********************************************************
+Customer Name: ASAI
+TID:  
+Call Driver: didn't speak English
+Caller's Name: didn't get
+Phone Number: didn't get
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: customer disconnected as i couldn't speak Spanish
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170912-0659
+Created for: ASAICaller Name: didn't get
+Store Name and Address: 
+PHONE SUPPORT
+  101 North Brand Blvd. Suite 1230,
+  Glendale CA 91203
+Call Back Number: didn't get
+Reason for Call: didn't speak English
+Resolution Notes: customer disconnected as i couldn't speak Spanish <<09/12/2017 @ 09:16 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: EFT DISPUTE
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+-------------------------------------------------------------------
+
+Ticket Number -- 170912-0493
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+*********************************************************
+Customer Name: Cardtronics
+TID:  
+Call Driver: they're trying to reach Settlement
+Caller's Name: Danny
+Phone Number: lost
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: Transferred him to Charlene in Settlement
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170912-0687
+Created for: CardtronicsCaller Name: Danny
+Store Name and Address: 
+PHONE SUPPORT
+  3250 BRIARPARK DR STE 400
+  HOUSTON TX 77042
+Call Back Number: lost
+Reason for Call: they're trying to reach Settlement
+Resolution Notes: Transferred him to Charlene in Settlement <<09/12/2017 @ 09:25 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: EFT DISPUTE
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+-------------------------------------------------------------------
+
+Ticket Number --  170831-0383
+
+	Caller Name --  Charles Mullins
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170906-0319
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  905952
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+30543
+-------------------------------------------------------------------
+
+Ticket Number --  170911-1675
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- Dan
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170912-0416
+
+	Caller Name --  Bill Feeny
+
+	Phone Number --  
+
+	TID --  TYAT003033
+
+	Notes -- LRL331B120519768
+
+
+--------------------------------------------------------------------
+
+
+Mainboard | X2 US Mainboard | CE5 | Compatible with Traverse 8" Display
+REPAIR
+Part Number: 08011-30001
+-------------------------------------------------------------------
+
+Ticket Number -- 170907-1508
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170908-0253
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 170911-1719
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170720-0820
+
+	Caller Name --  Fred Hester
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+5yNS9L
+
+-------------------------------------------------------------------
+
+Ticket Number --  170912-0971
+
+	Caller Name --  Charles
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+170912-0375
+
+card reader 
+
+univeral money provided the parts
+
+240208911
+
+-------------------------------------------------------------------
+
+Ticket Number -- ASAI
+
+	Caller Name --  didn't Get
+
+	Phone Number --  didn't Get
+
+	TID --  
+
+	Notes --  
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  TS 866-576-9933
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170814-0750
+
+	Caller Name --   
+
+	Phone Number --   
+
+	TID --   
+
+	Notes--  
+
+--------------------------------------------------------------------
+
+808229
+
+170912-0248
+
+ug19349

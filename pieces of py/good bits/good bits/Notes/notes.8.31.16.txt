@@ -1,0 +1,151 @@
+-------------------------------------------------------------------
+
+Ticket Number -- corner store 789
+
+	Caller Name --  Gugsa
+
+	Phone Number --  972-216-5820
+
+	TID --  UD-05163 - AD1HV1000000W2T
+
+	Notes-- please call site to advise when a bill acceptor tray can be shipped out.
+
+	Corner Store 789
+1135 Gross Rd Mesquite TX, 75149
+
+--------------------------------------------------------------------
+
+UA-07117
+
+Right side acceptor spitting bills back out after MOSTLY accepting them.
+
+972-625-0959
+
+Kevin
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Shawana Duncan
+
+	Phone Number --  
+
+	TID --  went to atm on thursday, filed a dispute on Thursday, bank is telling her to continue to 
+
+	Notes-- 
+
+--------------------------------------------------------------------
+
+CC21-2B00-1000-B001   160830-0384
+
+-------------------------------------------------------------------
+
+Ticket Number --  160831-1405
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes--  
+
+--------------------------------------------------------------------
+
+LK652638
+
+|<    <   
+1
+  of   
+1
+   >    >|
+Service Call ID:	160824-0895     Appts: 1
+Service Images?	   
+Customer Ref#:	0       EA Call#: (none)  
+Equipment:	LK652638    (HYOSUNG 1500 )     [Up]
+Call Status:	COMPLETE
+Customer:	Cardtronics - Merchant    (2000300 )
+Site Location:	
+Pats Roadhouse	Sub-Location:   
+157 S Getty St 
+Muskegon MI ,  49442
+Services Provided:	  	FLM: N   SLM: Y   T&M: N  
+SW Maintenance:	No
+Call Open Time:	08/24/2016 12:45 (EST)
+Call Created By:	wrehmert     Caller Name/Phone: Steven Seng  /  2313291551
+Svc Task / Hours:	ITS    Wed:  (none)    Thu:  (none)    Fri:  (none)
+SLA Response / (Zone):	24.00 Hr Response    (1 ) /     Svc Area: MI50
+District:	CORP-PTC
+Problem Type:	ITS100
+Sales / AM Reps:	CHANSEN \ Wanless, Laura
+
+
+
+160828-0525
+
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  Jesse Garcia
+
+	Phone Number --  492683  actual serial is 419174 Pendum
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160825-2081
+
+	Caller Name --  Tyrone
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 160823-1058
+
+	Caller Name --  UG13456
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Louis Garcia  has trouble with a cencon lock
+
+	Phone Number --  06 99 79
+
+	TID --  
+
+	Notes-- 
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  160830-0965, 160829-0969
+
+	Caller Name --  
+
+	Phone Number --  0090025348
+
+	TID --  160825-0706
+
+	Notes-- 
+
+--------------------------------------------------------------------

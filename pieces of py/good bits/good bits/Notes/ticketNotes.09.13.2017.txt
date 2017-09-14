@@ -1,0 +1,363 @@
+
+*********************************************************
+Customer Name: EGlobal
+TID:  
+Call Driver: EFT
+Caller's Name: lost
+Phone Number: lost
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: Advised that the he should speak with his bank to have an EFT dispute filed on his behalf in order to be creditted back the $300 he didn't receive from the ATM.
+
+*********************************************************
+
+*********************************************************
+Customer Name: EGlobal ATM
+TID:  
+Call Driver: EFT
+Caller's Name: lost
+Phone Number: lost
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: advised to call his bank and file an EFT dispute.
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170913-0110
+Created for: EGlobal ATMCaller Name: lost
+Store Name and Address: 
+PHONE SUPPORT
+  854 West 450 North #4
+  Kaysville UT 84037
+Call Back Number: lost
+Reason for Call: EFT
+Resolution Notes: advised to call his bank and file an EFT dispute. <<09/13/2017 @ 06:02 MST SC_DCretan>>
+---------------------------------------
+CATEGORY: EFT DISPUTE
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
+https://www.officestar.net/#sid=0.3226535783408164&p=Products&m=COMMERCIAL&b=10001&c=10128&ct=&st=&cg=&skuid=25004&mdf=/sys/store/v1/sku&mdp=vStore
+
+-------------------------------------------------------------------
+
+Ticket Number -- EGlobal
+
+	Caller Name --  used cred it card 
+
+	Phone Number --  lost
+
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+winn dixie 1478 ocean springs
+
+remodeling, putting in new store entrance Friday
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+170912--1504
+
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Jim Barnes
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170912-1504
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  170911-0832
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 044629 Pendum 981496
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170911-1009
+
+	Caller Name --  John
+
+	Phone Number --  
+
+	TID --  
+
+	Notes -- 797262
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  Steven
+
+	Phone Number --  
+
+	TID --  
+
+	Notes -- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  170912-0346
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number --  170911-0244
+
+	Caller Name --  Brandon
+
+	Phone Number --   Y346000900
+
+	TID --  
+
+	Notes --  	
+
+Part Number : 7470000007
+MAIN BOARD
+Part Number : 21622801
+I/O BOARD BATTERY
+
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number --  170727-1323
+
+	Caller Name --  Richard
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Courtland
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 
+
+	Caller Name --  Glen
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170911-0428
+
+	Caller Name --  Adam
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 170831-0818
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 170509-1237
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- Order PART BP00973 Uninterrupted Power Supply
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number -- 170912-1961
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170912-0037
+
+	Caller Name --  
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number --  170913-0854
+
+	Caller Name --  Lee
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 
+
+
+--------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Ticket Number -- 170906-0684
+
+	Caller Name --  Angelo
+
+	Phone Number --  
+
+	TID --  
+
+	Notes-- 7010000194
+
+
+--------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+Ticket Number --  170913-0625
+
+	Caller Name --  Fred
+
+	Phone Number --  
+
+	TID --  
+
+	Notes --  4210003147
+
+	7200001299
+
+	Fred called from site with Keypad failing to go into installation state.  We triple checked the id's and passwords, ensured that the keypad was flush mounted in the ATM, then called Hyosung and worked with Hector to determine that we were performing the proper steps, but that Fred should remove and replace the keypad this time using the bracket that was supplied.. this will cause the keypad to be countersunk in the ATM fascia, not flush, but should allow for the security buttons on the keypad to be completely depressed.
+
+
+--------------------------------------------------------------------
