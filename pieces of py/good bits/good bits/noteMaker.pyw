@@ -3,7 +3,7 @@ import datetime
 
 class Mywin(wx.Frame):
    def __init__(self, parent, title):
-      super(Mywin, self).__init__(parent, title = title,size = (320,475), style= wx.CAPTION | wx.CLOSE_BOX)
+      super(Mywin, self).__init__(parent, title = title,size = (320,470), style= wx.CAPTION | wx.CLOSE_BOX)
 
 
       panel = wx.Panel(self)
@@ -94,13 +94,20 @@ class Mywin(wx.Frame):
       vbox.Add(hbox9)
       self.t9.Bind(wx.EVT_TEXT_ENTER,self.OnEnterPressed)
 
-      hbox10 = wx.BoxSizer(wx.HORIZONTAL, )
+      hbox10 = wx.BoxSizer(wx.HORIZONTAL)
+      
+      hbox10.AddSpacer(5)
+
       self.btn2 = wx.Button(panel, -1, "Clear")
       hbox10.Add(self.btn2, 1, wx.ALIGN_LEFT)
-      #self.btn2.Bind(wx.EVT_BUTTON, )
+      #self.btn2.Bind(wx.EVT_BUTTON, self.OnClear, btn2)
+
       hbox10.AddSpacer(80)
+
       self.btn = wx.Button(panel, -1, "Add This to Notes")
       hbox10.Add(self.btn, 1, wx.ALIGN_RIGHT)
+
+      hbox10.AddSpacer(5)
       self.btn.Bind(wx.EVT_BUTTON, self.takeNote)
       vbox.Add(hbox10, wx.ALL)
 
