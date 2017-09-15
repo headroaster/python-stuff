@@ -116,9 +116,9 @@ def makeTicket ():
 
 #Creates a permanent record of a temporarily saved note file.
 def saveDocument ():
-    with open("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
+    with open("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
             lines = notes.readlines()
-            with open ("ticketNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
+            with open ("C:/Users/cretand/Documents/notes/ticketNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
                 finalNotes.writelines(lines)
                 notes.close()
                 finalNotes.close()
@@ -131,7 +131,7 @@ def documentThis ():
         "callBack" : "Phone Number: ", "serial" : "Serial Number: ",
         "address" : "Street Address: ", "zip" : "ZIP or Postal Code: ",
         "notes" : "Notes: "})
-    with open ("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
+    with open ("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
         def border():
             notes.write("\n*********************************************************\n")
             return
@@ -157,7 +157,7 @@ def documentThat ():
        'rfc' : ('Reason for Call: ', driver.find_element_by_id("MainContent_ChildContent1_txtDescNotes").text + "\n"),
        'rn' : ('Resolution Notes: ', driver.find_element_by_id("MainContent_ChildContent1_txtResNotes").text + "\n")}
 
-    with open ("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
+    with open ("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
         def border():
             notes.write("\n*********************************************************\n")
             return

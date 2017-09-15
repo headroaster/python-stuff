@@ -63,9 +63,9 @@ def inMyName ():
 
 #Stores created notes in a local document
 def saveDocument ():
-    with open("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
+    with open("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
             lines = notes.readlines()
-            with open ("tidelNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
+            with open ("C:/Users/cretand/Documents/notes/tidelNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
                 finalNotes.writelines(lines)
                 notes.close()
                 finalNotes.close()
@@ -76,7 +76,7 @@ def weekendCheck ():
     def border():
         notes.write("\n*********************************************************\n")
         return
-    with open ("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as notes:
+    with open ("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as notes:
         dayOfWeek = datetime.datetime.today().weekday()
         weekends = [5,6]
         if dayOfWeek in weekends:
@@ -106,7 +106,7 @@ def noteTidel ():
     'rI' : ('Reported Issue: '  , driver.find_element_by_id("MainContent_ChildContent1_txtDescNotes").text + " \n"),
     'cN' : ('Call Notes: '  , "   " + "\n")
     }
-    with open ("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
+    with open ("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
         def border():
             notes.write("\n*********************************************************\n")
             return

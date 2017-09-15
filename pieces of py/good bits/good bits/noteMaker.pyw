@@ -3,7 +3,7 @@ import datetime
 
 class Mywin(wx.Frame):
    def __init__(self, parent, title):
-      super(Mywin, self).__init__(parent, title = title,size = (320,625), style= wx.CAPTION | wx.CLOSE_BOX)
+      super(Mywin, self).__init__(parent, title = title,size = (320,475), style= wx.CAPTION | wx.CLOSE_BOX)
 
 
       panel = wx.Panel(self)
@@ -94,14 +94,17 @@ class Mywin(wx.Frame):
       vbox.Add(hbox9)
       self.t9.Bind(wx.EVT_TEXT_ENTER,self.OnEnterPressed)
 
-      self.btn = wx.Button(panel, -1, "Add This to Notes")
-      vbox.Add(self.btn, 1, wx.ALIGN_RIGHT)
-      self.btn.Bind(wx.EVT_BUTTON, self.takeNote)
-
+      hbox10 = wx.BoxSizer(wx.HORIZONTAL, )
       self.btn2 = wx.Button(panel, -1, "Clear")
-      #self.btn.Bind(wx.EVT_BUTTON, self.Clear())
-      vbox.Add(self.btn2, 1, wx.ALIGN_LEFT)
+      hbox10.Add(self.btn2, 1, wx.ALIGN_LEFT)
+      #self.btn2.Bind(wx.EVT_BUTTON, )
+      hbox10.AddSpacer(80)
+      self.btn = wx.Button(panel, -1, "Add This to Notes")
+      hbox10.Add(self.btn, 1, wx.ALIGN_RIGHT)
+      self.btn.Bind(wx.EVT_BUTTON, self.takeNote)
+      vbox.Add(hbox10, wx.ALL)
 
+      #self.btn.Bind(wx.EVT_BUTTON, self.Clear())
 
       panel.SetSizer(vbox)
 
@@ -118,9 +121,9 @@ class Mywin(wx.Frame):
 
 
    def saveDocument (self):
-     with open("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
+     with open("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
               lines = notes.readlines()
-              with open ("ticketNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
+              with open ("C:/Users/cretand/Documents/notes/ticketNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
                   finalNotes.writelines(lines)
                   notes.close()
                   finalNotes.close()
@@ -133,7 +136,7 @@ class Mywin(wx.Frame):
           self.t6 : "Phone Number: ", self.t4 : "Serial Number: ",
           self.t7 : "Street Address: ", self.t8 : "ZIP or Postal Code: ",
           self.t9 : "Notes: "})
-      with open ("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
+      with open ("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
           def border():
               notes.write("\n*********************************************************\n")
               return
