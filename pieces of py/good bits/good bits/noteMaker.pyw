@@ -1,3 +1,4 @@
+import os
 import wx
 import datetime
 
@@ -95,20 +96,21 @@ class Mywin(wx.Frame):
       self.t9.Bind(wx.EVT_TEXT_ENTER,self.OnEnterPressed)
 
       hbox10 = wx.BoxSizer(wx.HORIZONTAL)
-      
+
       hbox10.AddSpacer(5)
 
       self.btn2 = wx.Button(panel, -1, "Clear")
       hbox10.Add(self.btn2, 1, wx.ALIGN_LEFT)
-      #self.btn2.Bind(wx.EVT_BUTTON, self.OnClear, btn2)
+      self.btn2.Bind(wx.EVT_BUTTON, self.clear)
 
       hbox10.AddSpacer(80)
 
       self.btn = wx.Button(panel, -1, "Add This to Notes")
       hbox10.Add(self.btn, 1, wx.ALIGN_RIGHT)
+      self.btn.Bind(wx.EVT_BUTTON, self.takeNote)
 
       hbox10.AddSpacer(5)
-      self.btn.Bind(wx.EVT_BUTTON, self.takeNote)
+
       vbox.Add(hbox10, wx.ALL)
 
       #self.btn.Bind(wx.EVT_BUTTON, self.Clear())
@@ -128,9 +130,9 @@ class Mywin(wx.Frame):
 
 
    def saveDocument (self):
-     with open("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
+     with open(os.path.expanduser("~/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt"), "r") as notes:
               lines = notes.readlines()
-              with open ("C:/Users/cretand/Documents/notes/ticketNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
+              with open (os.path.expanduser("~/Documents/notes/ticketNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt"), "a") as finalNotes:
                   finalNotes.writelines(lines)
                   notes.close()
                   finalNotes.close()
@@ -143,7 +145,7 @@ class Mywin(wx.Frame):
           self.t6 : "Phone Number: ", self.t4 : "Serial Number: ",
           self.t7 : "Street Address: ", self.t8 : "ZIP or Postal Code: ",
           self.t9 : "Notes: "})
-      with open ("C:/Users/cretand/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
+      with open (os.path.expanduser("~/Documents/notes/tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt"), "w") as notes:
           def border():
               notes.write("\n*********************************************************\n")
               return
@@ -153,6 +155,14 @@ class Mywin(wx.Frame):
           border()
       self.saveDocument()
       return
+
+   def clear(self, event=None):
+       prompts = [self.t1 , self.t2, self.t3, self.t4, self.t5, self.t6, self.t7, self.t8 , self.t9]
+       for item in prompts:
+           item.SetValue("")
+           
+
+
 
 
 app = wx.App()
