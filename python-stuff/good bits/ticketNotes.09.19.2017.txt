@@ -1,0 +1,29 @@
+
+*********************************************************
+Customer Name: Cardtronics
+TID:  
+Call Driver: Boredom	
+Caller's Name: Bob
+Phone Number: 04385603486
+Serial Number: 
+Street Address: 
+ZIP or Postal Code: 
+Notes: berating of small children
+
+*********************************************************
+
+*********************************************************
+Service Call Number: 170919-0002
+Created for: CardtronicsCaller Name: Bob
+Store Name and Address: 
+PHONE SUPPORT
+  3250 BRIARPARK DR STE 400
+  HOUSTON TX 77042
+Call Back Number: 0438560348
+Reason for Call: Boredom
+Resolution Notes: ---------------------------------------
+CATEGORY: DISPENSER
+PROBLEM: Other
+REPAIR ACTION: FIXED VIA PHONE
+
+*********************************************************
