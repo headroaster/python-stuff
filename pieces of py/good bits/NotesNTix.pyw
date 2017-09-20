@@ -309,7 +309,7 @@ class Mywin(wx.Frame):
 
 
    def ticket(self, event=None):
-       website = "http://test.pendum.com/ServiceCenter/ServiceCallDetail.aspx?type=serviceC"
+       website = "http://app00.pendum.com/ServiceCenter/ServiceCallDetail.aspx?type=serviceC"
      #This gathers your username, and password.
        userUName = "dcretan"
        userPWord = "BURR2015"
