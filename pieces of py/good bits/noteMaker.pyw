@@ -158,7 +158,7 @@ class Mywin(wx.Frame):
 
 
    def clear(self, event=None):
-       prompts = [self.t1 , self.t2, self.t3, self.t4, self.t5, self.t6, self.t7, self.t8 , self.t9]
+       prompts = [self.t1, self.t2, self.t3, self.t4, self.t5, self.t6, self.t7, self.t8 , self.t9]
        for item in prompts:
            item.SetValue("")
 

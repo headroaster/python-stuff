@@ -106,9 +106,12 @@ def saveDocument ():
     with open("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "r") as notes:
             lines = notes.readlines()
             with open ("ticketNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "a") as finalNotes:
+                def border():
+                    finalNotes.write("\n*********************************************************\n")
+                    return
+                border()
                 finalNotes.writelines(lines)
-                notes.close()
-                finalNotes.close()
+                border()
             return
 
 #Creates a temporary record of the information collected during the call, saves that to another document
@@ -119,13 +122,8 @@ def documentThis ():
         "address" : "Street Address: ", "zip" : "ZIP or Postal Code: ",
         "notes" : "Notes: "})
     with open ("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
-        def border():
-            notes.write("\n*********************************************************\n")
-            return
-        border()
         for item in prompts:
             notes.write(prompts[item]+inputNotes[item]+ "\n")
-        border()
     saveDocument()
     return
 
@@ -145,13 +143,8 @@ def documentThat ():
        'rn' : ('Resolution Notes: ', driver.find_element_by_id("MainContent_ChildContent1_txtResNotes").text + "\n")}
 
     with open ("tempNotes." + datetime.date.today().strftime("%m.%d.%Y") + ".txt", "w") as notes:
-        def border():
-            notes.write("\n*********************************************************\n")
-            return
-        border()
         for item in headers:
                 notes.write(headers[item][0] + headers[item][1])
-        border()
         print("Created: " + driver.find_element_by_id("MainContent_ChildContent1_lstViewResult_lblServiceCall_0").text)
         notes.close()
     saveDocument()
