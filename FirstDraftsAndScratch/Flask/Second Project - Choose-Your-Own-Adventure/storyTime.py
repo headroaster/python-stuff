@@ -1,15 +1,31 @@
-First goal will be to create a group of html pages that display in local browser or online presenting a Choose
-your own adventure game.
 
-Secondary goal will be to create a locally operating game that displays the text for each page of html and buttons for the choices following each page.
+from flask import Flask, render_template, request
+app = Flask(__name__)
 
-program starts
+@app.route('/')
+def index():
+        return render_template('index.html')
 
-player is presented an intro page with choices for what type of story they'd like to play,
+@app.route('/horror')
+def horror():
+    return render_template('horror.html')
 
-Buttons for each of the story types, heroic and comedic to start with.
+@app.route('/comedy')
+def comedy():
+    return render_template('comedy.html')
 
-the basic mechanic for showing that page should be captured as a function..
+@app.route('/action')
+def action():
+    return render_template('action.html')
 
+@app.route('/heroic')
+def heroic():
+    return render_template('heroic.html')
 
-def CYAdv():
+@app.route('/scifi')
+def scifi():
+    return render_template('scifi.html')
+
+    
+if __name__=='__main__':
+    app.run(debug=True)
